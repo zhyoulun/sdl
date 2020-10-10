@@ -1,0 +1,12 @@
+C:\dataz\vclib\SDL2-2.0.12\include
+C:\dataz\vclib\SDL2_image-2.0.5\include
+
+C:\dataz\vclib\SDL2-2.0.12\lib\x64
+C:\dataz\vclib\SDL2_image-2.0.5\lib\x64
+
+
+SDL2.lib;SDL2main.lib;SDL2_image.lib;
+
+
+
+
